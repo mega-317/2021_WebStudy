@@ -1,0 +1,39 @@
+h1 {
+  color: white;
+}
+
+h2  {
+  color: red;
+  text-shadow: 1px 1px 15px red;
+}
+
+.profile {
+  border: 5px; background: #E6E6FA;
+}
+
+.family {
+  border: 5px; background: #ECE6CC;
+}
+
+table {
+  width 100%;
+  border: 3px solid #444444;
+  border-collapse: collapse;
+}
+
+th  {
+  border: 5px; background: #EDACB1;
+  border: 3px solid;
+}
+
+td  {
+  border: 3px solid;
+}
+
+.name {
+  font-weight:normal;
+}
+
+.school {
+  font-weight:normal;
+}
